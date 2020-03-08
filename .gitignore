@@ -1,0 +1,6 @@
+src/torch/notebooks/*
+build/*
+dist/*
+research_nmt_multilingual.egg-info/*
+.cache/*
+*.pyc
